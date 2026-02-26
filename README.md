@@ -1,5 +1,4 @@
 General Project Information
-- This scenario was designed and implemented for the evaluation of trainees (TA) in the event of a breach of artificial intelligence (AI) infrastructure, within the framework of the cyber defense exercise PANOPTIS 2025.
 - This is a scenario simulating a traffic control station at an intersection supported by a traffic light system.
 - The system is supported by a trained artificial intelligence model in order to distinguish vehicles passing through the intersection and indicate those passing through a specific road, violating the red light.
 
@@ -59,4 +58,5 @@ Information about the model used
 - Use api to call the model live and return a prediction
 - Cross-reference all information
 - Use Flask (web service) to display the information in a Web environment
+
 #run_simulation_3.py
